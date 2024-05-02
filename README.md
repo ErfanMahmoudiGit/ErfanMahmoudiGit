@@ -9,7 +9,7 @@
         <a href="https://www.linkedin.com/in/erfanmahmoudi/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://t.me/Erfun_Mhd><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
-    <div align=left>
+    <div align=center>
         <br>
         <p>
             <strong>
