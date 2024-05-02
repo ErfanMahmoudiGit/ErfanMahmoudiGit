@@ -13,7 +13,8 @@
         <br>
         <p>
             <strong>
-                Computer Engineering Student, Django Developer. Visit my Linkedin page for more info.<br><br>
+                <p>Computer Engineering Student, Django Developer.</p>
+                <p>Visit my Linkedin page for more info.</p>
             </strong>
         </p>
         <ul>
