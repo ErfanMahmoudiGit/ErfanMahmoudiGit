@@ -13,7 +13,7 @@
         <br>
         <p>
             <strong>
-                <p>Computer Engineering Student, Django Developer.</p>
+                <p>MSc Student in Computer Architecture @ Sharif University of Technology.</p>
                 <p>Visit my Linkedin page for more info.</p>
             </strong>
         </p>
